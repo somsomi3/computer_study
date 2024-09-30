@@ -11,7 +11,7 @@ computer_study
 git remote -v 로 현재 연결되어 있는 곳이 https://github.com/somsomi3/algorithm_study/가 맞는지 확인
 
 
-[2]
+[2] 깃배쉬에서 또는 아무폴더를코드로 열어서
 git config --global -l을 쳤을때, 
 
 user.name=본인 깃헙 사용자 이름
@@ -21,7 +21,7 @@ user.email=본인 깃헙 이메일 주소
 ...
 
 ->(만약 나오는 내용이 내 메일과 내이름이 아니라면)
-
+*****띄어쓰기 주의**** 
 git config --global user.email "본인 깃헙 이메일주소"
 
 git config --global user.name “본인 깃헙 사용자이름"
